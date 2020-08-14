@@ -1,4 +1,5 @@
 import React from 'react';
+import usefetchProducts from '../../hooks/useFetchProducts';
 import { Box, Grid, Sidebar, Header, Footer, Main, Carousel, Image } from 'grommet';
 
 const MainBody = () => {
